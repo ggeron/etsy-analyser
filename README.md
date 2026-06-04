@@ -1,11 +1,11 @@
 # Etsy Analyzer
 
-**Market-research tooling that helps Etsy sellers understand what's selling in a
+**Market-research tooling that helps the Etsy seller understand what's selling in a
 category and decide what to create next.**
 
 ## What it does
 Etsy Analyzer looks at a product category or sub-category (for example, digital
-products for weddings) and summarizes the landscape for a seller:
+products for weddings) and summarizes the landscape for the seller:
 
 - which kinds of products appear to be performing well,
 - the common features and themes that recur among popular listings,
